@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/testing/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/testing/static/js/main.abbdea02.chunk.js",
-    "main.js.map": "/testing/static/js/main.abbdea02.chunk.js.map",
-    "runtime-main.js": "/testing/static/js/runtime-main.2f74e34f.js",
-    "runtime-main.js.map": "/testing/static/js/runtime-main.2f74e34f.js.map",
-    "static/js/2.e6237243.chunk.js": "/testing/static/js/2.e6237243.chunk.js",
-    "static/js/2.e6237243.chunk.js.map": "/testing/static/js/2.e6237243.chunk.js.map",
-    "static/js/3.90fa1d3e.chunk.js": "/testing/static/js/3.90fa1d3e.chunk.js",
-    "static/js/3.90fa1d3e.chunk.js.map": "/testing/static/js/3.90fa1d3e.chunk.js.map",
-    "index.html": "/testing/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/testing/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e6237243.chunk.js.LICENSE.txt": "/testing/static/js/2.e6237243.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/testing/static/media/logo.6ce24c58.svg"
+    "main.css": "/productivity-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/productivity-app/static/js/main.7db19b28.chunk.js",
+    "main.js.map": "/productivity-app/static/js/main.7db19b28.chunk.js.map",
+    "runtime-main.js": "/productivity-app/static/js/runtime-main.a38be3a7.js",
+    "runtime-main.js.map": "/productivity-app/static/js/runtime-main.a38be3a7.js.map",
+    "static/js/2.cf78ea7d.chunk.js": "/productivity-app/static/js/2.cf78ea7d.chunk.js",
+    "static/js/2.cf78ea7d.chunk.js.map": "/productivity-app/static/js/2.cf78ea7d.chunk.js.map",
+    "static/js/3.e6169e02.chunk.js": "/productivity-app/static/js/3.e6169e02.chunk.js",
+    "static/js/3.e6169e02.chunk.js.map": "/productivity-app/static/js/3.e6169e02.chunk.js.map",
+    "index.html": "/productivity-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/productivity-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cf78ea7d.chunk.js.LICENSE.txt": "/productivity-app/static/js/2.cf78ea7d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/productivity-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f74e34f.js",
-    "static/js/2.e6237243.chunk.js",
+    "static/js/runtime-main.a38be3a7.js",
+    "static/js/2.cf78ea7d.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.abbdea02.chunk.js"
+    "static/js/main.7db19b28.chunk.js"
   ]
 }
